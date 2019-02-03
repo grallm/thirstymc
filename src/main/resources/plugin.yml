@@ -1,0 +1,5 @@
+name: Thirsty
+author: Izychiel
+version: 0.0.1
+main: fr.izychiel.thirsty.Main
+commands:
